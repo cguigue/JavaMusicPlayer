@@ -1,0 +1,5 @@
+P1003~iPhone 3G~Apple~199.0~3 GB~Black~1
+P1004~iPod Shuffle~Apple~55.0~1 GB~silver~25
+P1005~iPod Shuffle~Apple~75.0~2 GB~blue~15
+P1008~iPad~Apple~499.0~16GB~black~5
+P1009~Zune 4~Microsoft~249.99~4 GB~pink~10
